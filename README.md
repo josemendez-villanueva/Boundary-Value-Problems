@@ -1,2 +1,2 @@
 # Boundary-Value-Problems
-Boundary Value Problems were approximated through the use of Python
+This project consisted of using Numerical Methods in order to approximate physical problems.
